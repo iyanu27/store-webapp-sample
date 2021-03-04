@@ -20,7 +20,7 @@ If you have [Maven 3](http://maven.apache.org/) installed, you can clone the rep
 
 ## On Heroku
 
-Or you can just deploy it on your own Heroku account by clicking this button:
+ You can just deploy it on your own Heroku account by clicking this button:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
